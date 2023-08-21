@@ -1,2 +1,2 @@
-# keeperapp
-keeper app using react
+# Keeper-app
+It is a react based application
